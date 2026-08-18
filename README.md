@@ -69,10 +69,6 @@ photo.jpg
   saved:     photo_fit.png
 ```
 
-## Notes
-
-This tool is intended for astrophotography and telescope collimation checks, especially with Mak and SCT telescopes. It is a quick image-analysis aid — read the raw percentages rather than a verdict, and use a second check (e.g. a Cheshire/autocollimator) to confirm before adjusting anything.
-
 ## License
 
 This project is provided as-is for personal or hobby use.
