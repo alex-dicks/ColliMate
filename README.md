@@ -72,7 +72,3 @@ photo.jpg
 ## License
 
 This project is provided as-is for personal or hobby use.
-
-## Author
-
-Created for astronomy and telescope collimation work.
